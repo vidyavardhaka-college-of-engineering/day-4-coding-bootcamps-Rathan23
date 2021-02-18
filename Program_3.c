@@ -9,9 +9,8 @@
 #include<stdio.h> 
 int main()
 {
-  //Declare all the variables[row, col, array a(2D array), i] used in the code
-   //Read the Value of row and coloumn of the matrix (i.e size of matrix) using scanf statement
-   //Read the elements of matrix a using nested for loop and scanf statment
-   //Print the elements of matrix a using nested for loop and printf statment as per the above specified format
+  int i,j;
+  int disp[2][2];
+
   return 0;
 }
